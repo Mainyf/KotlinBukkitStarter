@@ -1,0 +1,48 @@
+{
+    TraderCurrency: {
+        NpcMiscInv: [
+        ]
+    },
+    TraderIgnoreDamage: 0b,
+    TraderIgnoreNBT: 0b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:cooked_chicken",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:cooked_beef",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:baked_potato",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 9b,
+                id: "minecraft:cooked_porkchop",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 12b,
+                id: "minecraft:bread",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 15b,
+                id: "minecraft:beef",
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    }
+}

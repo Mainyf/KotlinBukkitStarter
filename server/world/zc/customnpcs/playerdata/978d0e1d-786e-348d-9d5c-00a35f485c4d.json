@@ -1,0 +1,59 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "Bai_Shang",
+    QuestData: {
+        CompletedQuests: [
+            {
+                Quest: 1,
+                Date: 10926779L
+            },
+            {
+                Quest: 3,
+                Date: 20867963L
+            }
+        ],
+        ActiveQuests: [
+        ]
+    },
+    UUID: "978d0e1d-786e-348d-9d5c-00a35f485c4d",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 6
+        },
+        {
+            Dialog: 7
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 10
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "/tp @dp 1285 66 293",
+                "Dialog": -1,
+                "Title": "立即传送",
+                "DialogColor": 183293,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "关闭",
+                "DialogColor": 183293,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 1b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "剧情触发3",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "······&6天使:&e不过，没关系！我想让你的来世能有幸福的生活，&e不介意的话，我会听取你的愿望哟，&e我某种程度上是可以做到的。&b那，请把我变成不老不死，永远不会感到疲劳的吧。&6天使:&e好的，那么就把你变成魔力不断在体内循环，&e不会老去，不会疲劳的身体吧！·········&a原来，刚才睡着了...从帝都连夜赶回格兰镇，真是累坏我了。&a真是头疼，又是那个世界的梦，真不愿意想起那些记忆。&a不管了不管了，艾莉莉好像有事找我，先去和他会面吧。",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1555335253500L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

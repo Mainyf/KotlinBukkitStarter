@@ -1,0 +1,55 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "lieyanhuo_dada",
+    QuestData: {
+        CompletedQuests: [
+            {
+                Quest: 3,
+                Date: 20686932L
+            }
+        ],
+        ActiveQuests: [
+        ]
+    },
+    UUID: "06839f3b-cfad-39c3-a99a-8995c19dd8c7",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 6
+        },
+        {
+            Dialog: 7
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 10
+        }
+    ]
+}

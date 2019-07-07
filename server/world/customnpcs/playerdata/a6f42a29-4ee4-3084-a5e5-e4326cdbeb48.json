@@ -1,0 +1,47 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        },
+        {
+            "Points": 2000,
+            "Faction": 3
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Doremy_Sweet",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 34753545L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "a6f42a29-4ee4-3084-a5e5-e4326cdbeb48",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 1000,
+            Faction: 1
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "kiss",
+    QuestData: {
+        CompletedQuests: [
+            {
+                Quest: 3,
+                Date: 20862339L
+            }
+        ],
+        ActiveQuests: [
+        ]
+    },
+    UUID: "8f4fe607-de9b-30f5-8fee-ed46f68d78ca",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 6
+        },
+        {
+            Dialog: 7
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 10
+        }
+    ]
+}

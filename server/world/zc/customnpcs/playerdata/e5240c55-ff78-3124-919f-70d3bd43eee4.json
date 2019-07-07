@@ -1,0 +1,70 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 1000,
+            Faction: 1
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "Bai_ju",
+    QuestData: {
+        CompletedQuests: [
+            {
+                Quest: 1,
+                Date: 5735021L
+            },
+            {
+                Quest: 2,
+                Date: 5936477L
+            },
+            {
+                Quest: 3,
+                Date: 20572644L
+            }
+        ],
+        ActiveQuests: [
+        ]
+    },
+    UUID: "e5240c55-ff78-3124-919f-70d3bd43eee4",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 6
+        },
+        {
+            Dialog: 7
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 9
+        },
+        {
+            Dialog: 10
+        }
+    ]
+}

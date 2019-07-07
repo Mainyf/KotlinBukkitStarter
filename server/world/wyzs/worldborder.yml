@@ -1,0 +1,7 @@
+x: 0.0
+z: 0.0
+damageAmount: 0.2
+damageBuffer: 5.0
+warningBlocks: 5
+warningTime: 15
+oldRadius: 6.0E7
